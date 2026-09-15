@@ -1,10 +1,10 @@
 # Sobre mim
 
-👋 E aí! Eu sou Walter Neto — estudante de Análise e Desenvolvimento de Sistemas na UNINASSAU [Pernambuco].
+👋 E aí! Eu sou Walter Neto — estudante de Análise e Desenvolvimento de Sistemas na UNINASSAU, localizada em [Pernambuco, Brasil].
 
 📚 Estudando Java, Python, Banco de Dados e Desenvolvimento Web.
 
-🌱 Atualmente desenvolvendo em equipe um Jogo de RPG.
+🌱 Atualmente desenvolvendo em equipe um Jogo de RPG em 2D.
 
 🎨 Quando não estou estudando, eu estou Jogando, Lendo, Praticando esportes ou em alguma campanha de RPG de Mesa.
 
