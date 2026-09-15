@@ -6,7 +6,7 @@
 
 🌱 Atualmente desenvolvendo em equipe um Jogo 2D de RPG.
 
-🎨 Quando não estou estudando, eu estou Jogando, Lendo, Praticando esportes ou em alguma campanha de RPG de Mesa.
+🎨 Quando não estou estudando, eu estou Jogando, Lendo, Assistindo séries, Praticando esportes ou em alguma campanha de RPG de Mesa.
 
 ##
 
