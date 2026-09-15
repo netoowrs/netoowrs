@@ -1,4 +1,4 @@
-# walterneto
+# netoowrs
 
 👋 E aí! Eu sou Walter Neto — estudante de Análise e Desenvolvimento de Sistemas na UNINASSAU [Pernambuco].
 
