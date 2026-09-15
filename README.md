@@ -4,7 +4,7 @@
 
 📚 Estudando Java, Python, Banco de Dados e Desenvolvimento Web.
 
-🌱 Atualmente desenvolvendo em equipe um Jogo 2D de RPG.
+🌱 Atualmente desenvolvendo em equipe um Jogo 2D de Ação-RPG.
 
 🎨 Quando não estou estudando, eu estou Jogando, Lendo, Assistindo séries, Praticando esportes ou em alguma campanha de RPG de Mesa.
 
