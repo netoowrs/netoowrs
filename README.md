@@ -2,7 +2,7 @@
 
 👋 E aí! Eu sou Walter Neto — estudante de Análise e Desenvolvimento de Sistemas na UNINASSAU, localizada em [Pernambuco, Brasil].
 
-📚 Estudando Java, Python, Banco de Dados e Desenvolvimento Web.
+📚 Estudando JavaScript, Python, Banco de Dados e Desenvolvimento Web.
 
 🌱 Atualmente desenvolvendo em equipe um Jogo 2D de Ação-RPG.
 
